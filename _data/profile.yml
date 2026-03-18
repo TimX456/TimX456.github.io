@@ -1,0 +1,67 @@
+primary_name: "Tianyi Xie"
+secondary_name: "Tim"
+navbar_name: "Tianyi Xie"
+
+positions:
+- name: Economics/Mathematics Combined B.A.
+  affiliation: University of California, Santa Cruz
+- name: University of California, Santa Cruz
+  logo: /assets/images/badges/UCSC.png  # Logo is optional
+
+
+email: "gewilliweg@gmail.com"
+# cv_link: link-to-your-cv-file
+# gscholar: 2J96C48AAAAJ&hl=en # This is an example, replace it with your own Google Scholar ID
+github: TimX456
+# twitter: your_twitter_id  # Do not include the '@' symbol
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+linkedin: tianyi-xie-13a781396
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    Hi! I am a senior undergraduate student at the University of California, Santa Cruz, majoring in Economics and Mathematics.
+    I am passionate about leveraging data-driven approaches to understand market dynamics, user behavior, and business performance. 
+  </p>
+
+  <p>
+    My academic training has equipped me with <strong>strong analytical thinking, quantitative modeling skills, and a solid foundation in statistics and economic theory</strong>.
+    I am particularly interested in Data Science, Market Analysis, and Product Analytics roles where I can translate complex datasets into actionable insights that support strategic decision-making.
+  </p>
+
+  <p>
+    Outside of academics, I enjoy photography and playing basketball 🏀. 
+    Photography helps me observe patterns and stories in everyday life, while basketball keeps me motivated through teamwork and resilience.
+  </p>
+
+portrait_url: /assets/images/photos/portrait.png
+portrait_caption: >-
+  Tianyi Xie
+
+education:
+- name: University of California, Santa Cruz
+  logo: /assets/images/badges/UCSC.png
+  position: >- 
+    Economics/Mathematics Combined B.A.<br/>
+    Senior Undergraduate <br/>
+  date: Sep. 2022 - present
+
+
+
+experience:
+- name: <strong>Research</strong>:Short-Term Feedback, Learning, and Investor Rationality
+  logo: /assets/images/badges/UCSC.png
+  dept: With <a href="https://www.jbs.cam.ac.uk/people/raghavendra-rau/"target="_blank">Prof. Raghavendra Rau</a>
+  position: >-
+       University of Cambridge <br/>
+       Judge Business School
+  date: Sep. 2025 - Dec. 2025
+  details:
+    - Designed a controlled-field hybrid experiment to evaluate how short-term investment outcomes shape judgment precision and risk behavior.
+    - Implemented randomized feedback sequences and collected real-world account aggregates to measure calibration, aggression, and attribution patterns.
+    - Conducted longitudinal analysis revealing dynamic shifts from emotionally driven reactions to experience-based adaptive learning.
+    - Identified mechanisms linking recency effects, overconfidence, and bounded learning; developed low-cost behavioral interventions for trading platforms.
+    - Currently working on a paper about whether short-term experience enhances the accuracy of investors' decisions.
