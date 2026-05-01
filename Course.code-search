@@ -1,0 +1,39 @@
+# Query: Course
+# ContextLines: 1
+
+7 个结果 - 7 文件
+
+experience.html:
+  8  {% assign visible_experience = site.experience | sort: "date" | reverse | where: "show", true %}
+  9: {% assign ordered_groups = "Research|Course Projects" | split: "|" %}
+  10  
+
+_experience/2025-business-econ.md:
+  3  title: "Southeast Asian Economy - Strategic Analysis of Xiaomi’s Business Model (Business / Econ)"
+  4: group: "Course Projects"
+  5  date: 2025-03-01
+
+_experience/2025-causal-inference.md:
+  3  title: "Causal Inference Analysis of Voter Mobilization Experiments"
+  4: group: "Course Projects"
+  5  date: 2025-10-01
+
+_experience/2026-collision-simulation.md:
+  3  title: "Modeling Collision Probability at Scale: A Simulation Study of Threshold Effects (Quant / Math)"
+  4: group: "Course Projects"
+  5  date: 2026-03-01
+
+_showcase/2020-project.md:
+  10  
+  11: <p>Here is a selection of course designs and previous engineering projects I completed during my undergraduate studies.</p>
+  12  
+
+_site/experience.html:
+  90  <div class="pt-4">
+  91:     <h2>Projects</h2>
+  92  </div>
+
+_site/showcase.html:
+  243  
+  244: <p>Here is a selection of course designs and previous engineering projects I completed during my undergraduate studies.</p>
+  245  
