@@ -1,7 +1,7 @@
-# Query: Course
+# Query: Course Projects
 # ContextLines: 1
 
-7 个结果 - 7 文件
+5 个结果 - 5 文件
 
 experience.html:
   8  {% assign visible_experience = site.experience | sort: "date" | reverse | where: "show", true %}
@@ -23,17 +23,7 @@ _experience/2026-collision-simulation.md:
   4: group: "Course Projects"
   5  date: 2026-03-01
 
-_showcase/2020-project.md:
-  10  
-  11: <p>Here is a selection of course designs and previous engineering projects I completed during my undergraduate studies.</p>
-  12  
-
 _site/experience.html:
   90  <div class="pt-4">
-  91:     <h2>Projects</h2>
+  91:     <h2>Course Projects</h2>
   92  </div>
-
-_site/showcase.html:
-  243  
-  244: <p>Here is a selection of course designs and previous engineering projects I completed during my undergraduate studies.</p>
-  245  

@@ -1,7 +1,7 @@
 ---
 show: true
 title: "Southeast Asian Economy - Strategic Analysis of Xiaomi’s Business Model (Business / Econ)"
-group: "Course Projects"
+group: "Projects"
 date: 2025-03-01
 summary: "This project investigates Xiaomi's strategic expansion in Southeast Asian markets by integrating macroeconomic analysis, competitive benchmarking, and business strategy frameworks."
 ---

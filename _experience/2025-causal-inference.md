@@ -1,7 +1,7 @@
 ---
 show: true
 title: "Causal Inference Analysis of Voter Mobilization Experiments"
-group: "Course Projects"
+group: "Projects"
 date: 2025-10-01
 summary: "This project analyzes large-scale voter mobilization experiments using causal inference methods to estimate treatment effects and behavioral response patterns."
 ---

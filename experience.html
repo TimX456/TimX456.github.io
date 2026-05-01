@@ -6,7 +6,7 @@ container_class: container-lg
 ---
 
 {% assign visible_experience = site.experience | sort: "date" | reverse | where: "show", true %}
-{% assign ordered_groups = "Research|Course Projects" | split: "|" %}
+{% assign ordered_groups = "Research|Projects" | split: "|" %}
 
 {% for group_name in ordered_groups %}
 {% assign group_items = visible_experience | where: "group", group_name %}

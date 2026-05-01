@@ -1,7 +1,7 @@
 ---
 show: true
 title: "Modeling Collision Probability at Scale: A Simulation Study of Threshold Effects (Quant / Math)"
-group: "Course Projects"
+group: "Projects"
 date: 2026-03-01
 summary: "A scalable simulation framework for studying distributional dynamics, convergence behavior, and threshold effects in discrete probabilistic systems."
 ---
